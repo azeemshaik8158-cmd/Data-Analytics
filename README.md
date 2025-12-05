@@ -1,33 +1,36 @@
-This repository features end-to-end data analytics projects showcasing workflows from Python data preprocessing, MYSQL storage and querying, to interactive Power BI visualizations—demonstrating practical skills in transforming raw data into actionable business insights with scalable, efficient solutions. Project Overview
+Data Analytics Portfolio
 
-The projects include:
+This repository contains multiple end-to-end data analytics projects developed using Python, MySQL, and Power BI. Each project focuses on data preprocessing, exploratory data analysis, database querying, and generating insights from real-world datasets.
 
-E-commerce data analytics
+Projects included:
 
-FastF1 racing data analysis
+* E-commerce data analytics 
 
-Automobile insurance data insights
+* FastF1 racing data analysis  
 
-Smartwatch healthcare monitoring data
+* Automobile insurance data insights 
 
-Spotify data analysis
+* Smartwatch healthcare monitoring data 
 
-Taxi trip data analytics
+* Spotify data analysis  
 
-Telecom data analysis
+* Taxi trip data analytics  
 
-Each project is built using Python for data processing and integration, MYSQL for database management, and Power BI for data visualization and reporting. These projects showcase skills in data engineering, analytics, and business intelligence by transforming raw data into actionable insights.
+* Telecom data analysis  
 
-The projects highlight the ability to:
+Each project demonstrates the ability to:
 
-Collect, clean, and process large datasets
+- Collect, clean, and process datasets  
+- Perform exploratory analysis and identify patterns  
+- Work with relational databases using MySQL queries  
+- Build complete analytics workflows  
+- Create meaningful visualizations and dashboards  
+- Convert raw data into actionable insights for decision-making
 
-Design and manage relational databases
+Tools and technologies used:
 
-Develop end-to-end analytics pipelines
-
-Build interactive and insightful dashboards
-
-Derive meaningful insights to support decision-making
-
-This collection demonstrates practical experience in applying Python, database management, and business intelligence tools to real-world data problems.
+Python  
+Pandas, NumPy, Matplotlib, Seaborn  
+MySQL  
+Power BI  
+Jupyter Notebook
